@@ -1,0 +1,1 @@
+**Ushbu GitHub repository Muhammadjon Ibrohimovning telegram botlar qurishdagi o'quv mashg'ulotlar jamlanmasidir. Undagi kodlarni yurguzish uchun avvalo virtual muhitingizga *requirements.txt* faylidagi kutubxonalarni o'ranting va *.env* faylidagi kalitlarni o'zingizniki bilan almashtiring**
